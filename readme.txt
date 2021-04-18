@@ -1,7 +1,7 @@
 === Pending Email SMTP ===
 Contributors: binmaocom
 Tags: mail, smtp, phpmailer, pending email, mailing queue, wp_mail, email, fast email smtp, delay email
-Donate link: https://www.paypal.com/paypalme/binmaocom
+Donate link: https://www.paypal.com/paypalme/binmaocom or https://sanwp.com/thanh-toan/?add-to-cart=352
 Requires at least: 5.7.0
 Tested up to: 5.7.1
 Stable tag: 1.0.0
